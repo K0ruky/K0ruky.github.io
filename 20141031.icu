@@ -6,7 +6,7 @@
   <link href="https://k0ruky.github.io/20141031.icu" rel="self"/>
   
   <link href="https://k0ruky.github.io/"/>
-  <updated>2022-03-18T23:42:16.929Z</updated>
+  <updated>2022-03-19T23:31:52.714Z</updated>
   <id>https://k0ruky.github.io/</id>
   
   <author>
@@ -17,20 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo+stun主题</title>
+    <title>个人博客新手Mac搭建实操</title>
     <link href="https://k0ruky.github.io/2022/03/19/hexo-stun%E4%B8%BB%E9%A2%98/"/>
     <id>https://k0ruky.github.io/2022/03/19/hexo-stun%E4%B8%BB%E9%A2%98/</id>
     <published>2022-03-18T19:02:49.000Z</published>
-    <updated>2022-03-18T23:42:16.929Z</updated>
+    <updated>2022-03-19T23:31:52.714Z</updated>
     
     
-    <summary type="html">这是一段文章摘要，是通过 Front-Matter 的 excerpt 属性设置的。</summary>
+    <summary type="html">基于Mac终端homebrew+GitHub+hexo框架+stun美化主题搭建个人博客过程及Gitalk评论拓展</summary>
     
     
     
-    <category term="hexo" scheme="https://k0ruky.github.io/categories/hexo/"/>
+    <category term="笔记" scheme="https://k0ruky.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="stun主题美化" scheme="https://k0ruky.github.io/categories/hexo/stun%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/"/>
+    <category term="hexo博客搭建" scheme="https://k0ruky.github.io/categories/%E7%AC%94%E8%AE%B0/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
     <category term="hexo" scheme="https://k0ruky.github.io/tags/hexo/"/>
